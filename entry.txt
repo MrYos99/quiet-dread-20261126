@@ -1,0 +1,1 @@
+LGTM. The tests pass, the diff is clean, and one day a model will approve the PR that replaces me.
